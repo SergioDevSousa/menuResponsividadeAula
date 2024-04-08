@@ -1,0 +1,26 @@
+body{
+  background-color: #a435f0;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 20px;
+}
+.menu {
+  background-color: #a435f0;
+  padding: 10px;
+}
+
+.menu_container {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu_container li {
+  margin: 0 5px;
+}
+
+.menu_container a {
+  color: #ffffff;
+  text-decoration: none;
+}
