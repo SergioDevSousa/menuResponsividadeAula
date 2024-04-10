@@ -1,7 +1,7 @@
-/* Estilos padrão para o menu */
-@media screen and (max-width: 390px) {
-    .menu_container {
+
+@media screen and (max-width: 400px) {
+    .menu_container{
         flex-direction: column;
         align-items: start
     }
-  }
+}
